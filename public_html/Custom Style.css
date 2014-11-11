@@ -1,0 +1,38 @@
+div{
+   border-style:    ridge ;
+   border-width: 5px;
+   padding: 50px;
+   border-color:  purple;
+}
+
+.container{
+    border-color: purple;
+}
+
+.row{
+    border-color:  purple; 
+}
+
+#PHS{
+    background-image: url(immages/mansion.jpg);
+    background-size: cover;
+}
+
+#lol a:hover{
+    color: purple;
+    background-color: black;
+}
+
+#Pro{
+    background-image: url(immages/B2.jpg);
+    background-size:  auto;
+  
+}
+
+h1,p{
+    color: white;
+}
+
+#Tech{
+    background-image: url(immages/awesome.jpg)
+}
